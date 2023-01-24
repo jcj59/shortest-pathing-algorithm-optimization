@@ -1,4 +1,4 @@
-# A8: Pres Pollack and the Cavern under Gates
+# Shortest Pathing Algorithm Optimization
 Jack Jansons  
   
 CS 2110 - Object-Oriented Programming and Data Structures - Spring 2022  
